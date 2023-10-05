@@ -57,17 +57,6 @@ using a Linear SVM (scikit-learn)
 ## Presentation 🎓
 [Link To Presentation](https://youtu.be/6qQZr9h8qL0)
 
----------
-
-```javascript
-
-if (youEnjoyed) {
-    starThisRepository();
-}
-
-```
-
------------
 
 ## Thank You
-- Author : [Nevil Parmar](https://nevilparmar.me)
+
